@@ -40,26 +40,3 @@ graph LR;
     style B fill:#99ccff,stroke:#333,stroke-width:2px
     style C fill:#99ff99,stroke:#333,stroke-width:2px
     style F fill:#ffff99,stroke:#333,stroke-width:2px
-
-
-    Component,Library used,Role
-Language,,Core Logic
-Data Manipulation,,Dataframes & Cleaning
-ML Algorithms,,"Random Forest, GridSearch"
-Visualization,,Heatmaps & Bar Plots
-
-
-Metric,Score,Status
-Accuracy,100%,✅ Excellent
-Precision,1.00,✅ Excellent
-Recall,1.00,✅ Excellent
-
-
-
-The model successfully identifies the "Deal Breaker" features:
-
-🥇 Proline
-
-🥈 Color Intensity
-
-🥉 Flavanoids
